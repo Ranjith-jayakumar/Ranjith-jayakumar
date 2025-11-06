@@ -2,7 +2,7 @@
 
 <div align="center" style="background: linear-gradient(90deg, #e3ffe8 0%, #f9f9f9 100%); padding: 24px; border-radius: 16px;">
   <h1 style="font-size: 2.5rem; color: #2b2b2b;">👋 Hi, I'm <span style="color: #0078d4;">Ranjith J!</span></h1>
-  <h2 style="font-size: 1.5rem; color: #444; font-weight: 500;">Junior Machine Learning Engineer | GenAI Developer</h2>
+  <h2 style="font-size: 1.5rem; color: #444; font-weight: 500;">Machine Learning Engineer | GenAI Developer</h2>
 </div>
 
 <hr style="border: 1px solid #eee; margin: 24px 0;">
